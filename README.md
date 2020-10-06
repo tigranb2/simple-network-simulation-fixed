@@ -74,8 +74,8 @@ type Message struct {
 config.go uses a bufio scanner to read the config.json file and store it's information. 
 
 ## Citations: 
-TCP Server info: https://www.linode.com/docs/development/go/developing-udp-and-tcp-clients-and-servers-in-go/
-Golang documentation: https://golang.org/
-Generating a random int: https://golang.cafe/blog/golang-random-number-generator.html
+- TCP Server info: https://www.linode.com/docs/development/go/developing-udp-and-tcp-clients-and-servers-in-go/    
+- Golang documentation: https://golang.org/   
+- Generating a random int: https://golang.cafe/blog/golang-random-number-generator.html   
 
 
